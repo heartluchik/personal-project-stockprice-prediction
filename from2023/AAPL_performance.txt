@@ -1,0 +1,13 @@
+Performance Metrics for AAPL:
+RMSE (Predicted vs Actual): 11.1658
+RMSE (Predicted vs High): 9.5731
+R² (Predicted vs Actual): -14.8945
+R² (Predicted vs High): -11.8744
+MAE (Predicted vs Actual): 10.8187
+MAE (Predicted vs High): 9.2033
+MAPE (Predicted vs Actual): 6.3216
+MAPE (Predicted vs High): 5.3289
+MSE (Predicted vs Actual): 124.6754
+MSE (Predicted vs High): 91.6444
+SMAPE (Predicted vs Actual): 6.1149
+SMAPE (Predicted vs High): 5.1789
