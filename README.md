@@ -3,7 +3,7 @@ Personal exploratory project on stock price prediction using Python-based modeli
 
 ## Tools used
 
-Python + `yfinance` + `pandas` + `keras`
+Python
 
 ##  What is inside
 
