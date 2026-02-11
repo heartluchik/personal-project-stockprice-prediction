@@ -1,0 +1,13 @@
+Performance Metrics for AMD:
+RMSE (Predicted vs Actual): 17.7536
+RMSE (Predicted vs High): 19.4349
+R² (Predicted vs Actual): -1.1950
+R² (Predicted vs High): -1.1935
+MAE (Predicted vs Actual): 15.9731
+MAE (Predicted vs High): 16.7874
+MAPE (Predicted vs Actual): 8.2818
+MAPE (Predicted vs High): 8.3693
+MSE (Predicted vs Actual): 315.1891
+MSE (Predicted vs High): 377.7143
+SMAPE (Predicted vs Actual): 8.3144
+SMAPE (Predicted vs High): 8.5900
