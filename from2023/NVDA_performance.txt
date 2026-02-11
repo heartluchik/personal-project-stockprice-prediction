@@ -1,0 +1,13 @@
+Performance Metrics for NVDA:
+RMSE (Predicted vs Actual): 8.6303
+RMSE (Predicted vs High): 10.5870
+R² (Predicted vs Actual): -6.6950
+R² (Predicted vs High): -8.0047
+MAE (Predicted vs Actual): 8.3113
+MAE (Predicted vs High): 10.2133
+MAPE (Predicted vs Actual): 9.2583
+MAPE (Predicted vs High): 11.1239
+MSE (Predicted vs Actual): 74.4815
+MSE (Predicted vs High): 112.0855
+SMAPE (Predicted vs Actual): 9.7413
+SMAPE (Predicted vs High): 11.8241
