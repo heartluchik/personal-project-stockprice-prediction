@@ -1,0 +1,13 @@
+Performance Metrics for MSFT:
+RMSE (Predicted vs Actual): 13.6442
+RMSE (Predicted vs High): 15.6163
+R² (Predicted vs Actual): -1.8865
+R² (Predicted vs High): -3.3706
+MAE (Predicted vs Actual): 11.7739
+MAE (Predicted vs High): 13.6898
+MAPE (Predicted vs Actual): 2.8164
+MAPE (Predicted vs High): 3.2563
+MSE (Predicted vs Actual): 186.1653
+MSE (Predicted vs High): 243.8702
+SMAPE (Predicted vs Actual): 2.8690
+SMAPE (Predicted vs High): 3.3263
